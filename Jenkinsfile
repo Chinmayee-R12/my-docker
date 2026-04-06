@@ -10,7 +10,7 @@ pipeline {
 
         stage('Clone Repo') {
             steps {
-                git 'https://github.com/your-username/my-python-app.git'
+                git 'https://github.com/Naveen04jan/jenkins_docker.git'
             }
         }
 
